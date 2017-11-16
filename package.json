@@ -1,0 +1,22 @@
+{
+  "name": "troll-in-the-dungeon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wpmk2/troll-in-the-dungeon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wpmk2/troll-in-the-dungeon/issues"
+  },
+  "homepage": "https://github.com/wpmk2/troll-in-the-dungeon#readme",
+  "dependencies": {
+    "discord.io": "^2.5.1"
+  }
+}
